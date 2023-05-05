@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/otpUI/static/css/main.4fd0486b.css",
+    "main.js": "/otpUI/static/js/main.31c8e39b.js",
+    "static/js/787.4d2ddfe9.chunk.js": "/otpUI/static/js/787.4d2ddfe9.chunk.js",
+    "index.html": "/otpUI/index.html",
+    "main.4fd0486b.css.map": "/otpUI/static/css/main.4fd0486b.css.map",
+    "main.31c8e39b.js.map": "/otpUI/static/js/main.31c8e39b.js.map",
+    "787.4d2ddfe9.chunk.js.map": "/otpUI/static/js/787.4d2ddfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fd0486b.css",
+    "static/js/main.31c8e39b.js"
+  ]
+}
